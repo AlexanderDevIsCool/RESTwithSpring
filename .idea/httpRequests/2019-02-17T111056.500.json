@@ -1,0 +1,8 @@
+{
+  "timestamp": 1550394656479,
+  "status": 500,
+  "error": "Internal Server Error",
+  "exception": "org.springframework.dao.IncorrectResultSizeDataAccessException",
+  "message": "result returns more than one elements; nested exception is javax.persistence.NonUniqueResultException: result returns more than one elements",
+  "path": "/login"
+}

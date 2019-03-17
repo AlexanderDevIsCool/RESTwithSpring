@@ -1,0 +1,269 @@
+GET http://localhost:80/users?token=ursYUK5S93df
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "login": "root123",   "password" : "root123" }
+
+<> 2019-02-17T120901.500.json
+
+###
+
+GET http://localhost:80/users?token=ursYUK5S93
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "login": "root123",   "password" : "root123" }
+
+<> 2019-02-17T120843.200.json
+
+###
+
+GET http://localhost:80/users?token=ursYUK5S93
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "login": "root123",   "password" : "root123" }
+
+<> 2019-02-17T120736.200.json
+
+###
+
+POST http://localhost:80/login
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "login": "root123",   "password" : "root123" }
+
+<> 2019-02-17T120714.200.json
+
+###
+
+GET http://localhost:80/users?token=OvC4aTwiFq
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "login": "root",   "password" : "root" }
+
+<> 2019-02-17T120508.403.json
+
+###
+
+POST http://localhost:80/login
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "login": "root",   "password" : "root" }
+
+<> 2019-02-17T120447.200.json
+
+###
+
+GET http://localhost:80/users?token=0AE1EE8257190CF991AE0E1E3824E7BF
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "login": "root",   "password" : "root" }
+
+<> 2019-02-17T120402.500.json
+
+###
+
+POST http://localhost:80/login
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "login": "root",   "password" : "root" }
+
+<> 2019-02-17T120340.500.json
+
+###
+
+POST http://localhost:80/login
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "login": "root",   "password" : "root" }
+
+<> 2019-02-17T120338.500.json
+
+###
+
+POST http://localhost:80/login?token=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "login": "root",   "password" : "root" }
+
+<> 2019-02-17T120321.500.json
+
+###
+
+GET http://localhost:80/users
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "login": "root",   "password" : "root" }
+
+<> 2019-02-17T120224.403.json
+
+###
+
+POST http://localhost:80/login
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "login": "root",   "password" : "root" }
+
+<> 2019-02-17T120212.200.json
+
+###
+
+POST http://localhost:80/login
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "login": "root",   "password" : "root" }
+
+<> 2019-02-17T115630.500.json
+
+###
+
+POST http://localhost:80/login
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "login": "root",   "password" : "root" }
+
+<> 2019-02-17T115226.500.json
+
+###
+
+POST http://localhost:80/login
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "login": "root123",   "password" : "root123" }
+
+<> 2019-02-17T115150.500.json
+
+###
+
+POST http://localhost:80/login
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "login": "root123",   "password" : "root123" }
+
+<> 2019-02-17T115129.500.json
+
+###
+
+POST http://localhost:80/login
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "login": "root123",   "password" : "root1234" }
+
+<> 2019-02-17T115054.500.json
+
+###
+
+POST http://localhost:80/login
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "login": "root123",   "password" : "root1234" }
+
+<> 2019-02-17T111821.500.json
+
+###
+
+POST http://localhost:80/login
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "login": "root123",   "password" : "root123" }
+
+<> 2019-02-17T111806.200.json
+
+###
+
+POST http://localhost:80/login
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "login": "root123",   "password" : "root123" }
+
+<> 2019-02-17T111313.500.json
+
+###
+
+POST http://localhost:80/login
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "login": "root",   "password" : "root" }
+
+<> 2019-02-17T111056.500.json
+
+###
+
+POST http://localhost:80/login
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "login": "user",   "password" : "user" }
+
+<> 2019-02-17T110944.500.json
+
+###
+
+POST http://localhost:80/users
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "first-name" : "Roman",   "last-name" : "Roman",   "login" : "root123",   "password" : "root123" }
+
+###
+
+POST http://localhost:80/users
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "firstName" : "Roman",   "lastName" : "Roman",   "login" : "root123",   "password" : "root123" }
+
+###
+
+POST http://localhost:8080/users
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "firstName" : "Roman",   "lastName" : "Roman",   "login" : "root123",   "password" : "root123" }
+
+###
+

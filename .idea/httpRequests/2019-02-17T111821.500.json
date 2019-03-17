@@ -1,0 +1,8 @@
+{
+  "timestamp": 1550395101595,
+  "status": 500,
+  "error": "Internal Server Error",
+  "exception": "java.lang.IllegalArgumentException",
+  "message": "User not found",
+  "path": "/login"
+}

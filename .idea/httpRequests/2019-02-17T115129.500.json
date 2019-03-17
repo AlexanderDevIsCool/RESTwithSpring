@@ -1,0 +1,8 @@
+{
+  "timestamp": 1550397089940,
+  "status": 500,
+  "error": "Internal Server Error",
+  "exception": "java.lang.IllegalArgumentException",
+  "message": "Bad token",
+  "path": "/login"
+}
